@@ -14,8 +14,9 @@ My research is in Probability and Stochastic analysis. I am interested in the ra
 
 Preprints and Publications:
 ---
-2. Mesoscopic averaging of the two-dimensional KPZ equation.
+
+* Mesoscopic averaging of the two-dimensional KPZ equation.
    [J Stat Phys 191, 6 (2024).](https://link.springer.com/article/10.1007/s10955-023-03222-3) [arixv](https://arxiv.org/abs/2302.06689v3)
    
-1. Gaussian fluctuations of a nonlinear stochastic heat equation in dimension two.
+* Gaussian fluctuations of a nonlinear stochastic heat equation in dimension two.
    [Stoch PDE: Anal Comp 12, 220–246 (2024).](https://link.springer.com/article/10.1007/s40072-022-00282-6) [arxiv](https://arxiv.org/pdf/2204.13866.pdf)
