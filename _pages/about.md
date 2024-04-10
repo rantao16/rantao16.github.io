@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Ran Tao (陶然)"
 author_profile: true
 redirect_from: 
   - /about/
