@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ran Tao (陶然)"
 title_separator          : "-"
 name                     : &name "Ran Tao"
 description              : &description "Ran's homepage"
@@ -23,8 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Ran Tao"
-  bio              : "Short biography for the left-hand sidebar"
-  employer         : "University of Maryland, College Park"
+  bio              : "Ph.D. candidate at the University of Maryland, College Park"
   uri              : # URL
   email            : "rantao16@umd.edu" 
 
