@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ran Tao (陶然)"
+title: "Ran Tao"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 Email: rantao16 [at] umd [dot] edu
 
-I am a final-year Ph.D. student in the Department of Mathematics at the [University of Maryland, College Park](https://www-math.umd.edu/). I’m fortunate to be advised by [Yu Gu](https://www.math.umd.edu/~ygu7/). Previously, I got my B.S. degree from the School of Mathematical Sciences at Fudan University in 2019.
+Hi! My name is Ran Tao (陶然). I am a final-year Ph.D. student in the Department of Mathematics at the [University of Maryland, College Park](https://www-math.umd.edu/). I’m fortunate to be advised by [Yu Gu](https://www.math.umd.edu/~ygu7/). Previously, I got my B.S. degree from the School of Mathematical Sciences at Fudan University in 2019.
 
 My research focuses on probability and stochastic analysis, with their applications to statistical physics. Currently, I am working on some stochastic heat equations and KPZ equations. 
 
