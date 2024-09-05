@@ -4,14 +4,14 @@ main:
 - title: "Aboout"
 url: /about.md/
 
-- title: "Publications"
-  url: /publications/
+#- title: "Publications"
+#  url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
 
- - title: "Teaching"
-    url: /teaching/    
+# - title: "Teaching"
+#    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
