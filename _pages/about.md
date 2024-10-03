@@ -14,7 +14,7 @@ My research focuses on probability and stochastic analysis, with their applicati
 
 Preprints and Publications:
 ---
-* Fluctuation exponents of the half-space KPZ at stationarity. With Yu Gu
+* Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu)
   
   [arixv](https://arxiv.org/pdf/2410.01653.pdf) (Comments are welcome!)
 
