@@ -12,6 +12,8 @@ Hi! My name is Ran Tao (陶然). I am a final-year Ph.D. student in the Departme
 
 My research focuses on probability and stochastic analysis, with their applications to statistical physics. Currently, I am working on some stochastic heat equations and KPZ equations. 
 
+I am on the 2024-2025 postdoc job market!
+
 Preprints and Publications:
 ---
 * Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu)
