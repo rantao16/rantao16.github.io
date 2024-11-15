@@ -12,10 +12,14 @@ Hi! My name is Ran Tao (陶然). I am a final-year Ph.D. student in the Departme
 
 My research focuses on probability and stochastic analysis, with their applications to statistical physics. I work on topics including stochastic partial differential equations, interacting particle systems, and Malliavin calculus.
 
-I am on the 2024-2025 postdoc job market! Here is a copy of my [CV](https://drive.google.com/file/d/1QAnjKtOeVYARGnoyFWeTqpMsvxPqjKny/view?usp=drive_link).
+I am on the 2024-2025 postdoc job market! Here is a copy of my [CV](https://drive.google.com/file/d/1QAnjKtOeVYARGnoyFWeTqpMsvxPqjKny/view?usp=sharing).
 
 Preprints and Publications:
 ---
+* Time-dependent averages of a critical long-range stochastic heat equation. (with Sefika Kuzgun)
+  
+  [arixv](https://arxiv.org/pdf/2411.09058.pdf) 
+
 * Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu)
   
   [arixv](https://arxiv.org/pdf/2410.01653.pdf) (Comments are welcome!)
