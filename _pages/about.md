@@ -22,7 +22,7 @@ Preprints and Publications:
 
 * Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu)
   
-  [arixv](https://arxiv.org/pdf/2410.01653.pdf) (Comments are welcome!)
+  [arixv](https://arxiv.org/pdf/2410.01653.pdf) (submitted)
 
 * Mesoscopic averaging of the two-dimensional KPZ equation. <b>J Stat Phys 191, 6 (2024).</b>
   
