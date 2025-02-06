@@ -12,7 +12,7 @@ Hi! My name is Ran Tao (陶然). I am a final-year Ph.D. student in the Departme
 
 My research focuses on probability and stochastic analysis, with their applications to statistical physics. I work on topics including stochastic partial differential equations, interacting particle systems, and Malliavin calculus.
 
-I am on the 2024-2025 postdoc job market! Here is a copy of my [CV](https://drive.google.com/file/d/1QAnjKtOeVYARGnoyFWeTqpMsvxPqjKny/view?usp=sharing).
+Here is a copy of my [CV](https://drive.google.com/file/d/1QAnjKtOeVYARGnoyFWeTqpMsvxPqjKny/view?usp=sharing).
 
 Preprints and Publications:
 ---
