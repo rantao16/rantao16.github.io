@@ -8,7 +8,7 @@ redirect_from:
 ---
 Email: rantao16 [at] umd [dot] edu
 
-Hi! My name is Ran Tao (陶然). I am a final-year Ph.D. student in the Department of Mathematics at the [University of Maryland, College Park](https://www-math.umd.edu/). I’m fortunate to be advised by [Yu Gu](https://www.math.umd.edu/~ygu7/). Before that, I got my B.S. degree from the School of Mathematical Sciences at [Fudan University](https://math.fudan.edu.cn/mathen/main.htm) in 2019.
+Hi! My name is Ran Tao (陶然). From Aug 2025 to Dec 2025, I will be a postdoc in the pogram of Recent Trends in Stochastic Partial Differential Equations at [Simons Laufer Mathematical Sciences Institute (SLMath)](https://www.slmath.org/programs/380#overview_programs). I got my Ph.D. from the [University of Maryland, College Park](https://www-math.umd.edu/) in May 2025, where I was fortunate to be advised by [Yu Gu](https://www.math.umd.edu/~ygu7/). Before that, I got my B.S. degree from the School of Mathematical Sciences at [Fudan University](https://math.fudan.edu.cn/mathen/main.htm) in 2019.
 
 My research focuses on probability and stochastic analysis, with their applications to statistical physics. I work on topics including stochastic partial differential equations, interacting particle systems, and Malliavin calculus.
 
@@ -18,7 +18,7 @@ Preprints and Publications:
 ---
 * Time-dependent averages of a critical long-range stochastic heat equation. (with Sefika Kuzgun)
   
-  [arixv](https://arxiv.org/pdf/2411.09058.pdf) (Comments are welcome!)
+  [arixv](https://arxiv.org/pdf/2411.09058.pdf) (submitted)
 
 * Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu)
   
