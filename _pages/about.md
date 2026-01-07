@@ -22,15 +22,15 @@ Preprints and Publications:
   
   [arixv](https://arxiv.org/pdf/2411.09058.pdf) (submitted)
 
-* Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu) <b>Journal of Functional Analysis Volume 290, Issue 7 (2026).</b>
+* Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu) <b>Journal of Functional Analysis, 290, 7 (2026).</b>
   
   [arixv](https://arxiv.org/pdf/2410.01653.pdf), [journal](https://www.sciencedirect.com/science/article/pii/S0022123625004975)
   
-* Mesoscopic averaging of the two-dimensional KPZ equation. <b>J Stat Phys 191, 6 (2024).</b>
+* Mesoscopic averaging of the two-dimensional KPZ equation. <b>J Stat Phys, 191, 6 (2024).</b>
   
   [arixv](https://arxiv.org/pdf/2302.06689v3.pdf), [journal](https://link.springer.com/article/10.1007/s10955-023-03222-3) 
    
-* Gaussian fluctuations of a nonlinear stochastic heat equation in dimension two. <b>Stoch PDE: Anal Comp 12, 220–246 (2024).</b>
+* Gaussian fluctuations of a nonlinear stochastic heat equation in dimension two. <b>Stoch PDE: Anal Comp, 12, 220–246 (2024).</b>
   
   [arxiv](https://arxiv.org/pdf/2204.13866.pdf), [journal](https://link.springer.com/article/10.1007/s40072-022-00282-6) 
 
