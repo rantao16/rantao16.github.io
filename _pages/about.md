@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email: rantao16 [at] umd [dot] edu
+Email: rantao [at] mis [dot] mpg [dot] de
 
-Hi! My name is Ran Tao (陶然). From Aug 2025 to Dec 2025, I am a postdoc in the program of Recent Trends in Stochastic Partial Differential Equations at [Simons Laufer Mathematical Sciences Institute (SLMath)](https://www.slmath.org/programs/380#). Starting from Jan 2026, I will be a postdoc at the [Max Planck Institute for Mathematics in the Sciences (MPI MiS)](https://www.mis.mpg.de/) in Leipzig, Germany. 
+Hi! My name is Ran Tao (陶然). I am a postdoc at the [Max Planck Institute for Mathematics in the Sciences (MPI MiS)](https://www.mis.mpg.de/) in Leipzig, Germany. From Aug 2025 to Dec 2025, I was a postdoc in the program of Recent Trends in Stochastic Partial Differential Equations at [Simons Laufer Mathematical Sciences Institute (SLMath)](https://www.slmath.org/programs/380#). 
 
 I got my Ph.D. from the [University of Maryland, College Park](https://www-math.umd.edu/) in May 2025, where I was fortunate to be advised by [Yu Gu](https://www.math.umd.edu/~ygu7/). Before that, I got my B.S. degree from the School of Mathematical Sciences at [Fudan University](https://math.fudan.edu.cn/mathen/main.htm) in 2019.
 
@@ -24,7 +24,7 @@ Preprints and Publications:
 
 * Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu)
   
-  [arixv](https://arxiv.org/pdf/2410.01653.pdf) (submitted)
+  [arixv](https://arxiv.org/pdf/2410.01653.pdf) (To appear in Journal of Functional Analysis, 2025)
 
 * Mesoscopic averaging of the two-dimensional KPZ equation. <b>J Stat Phys 191, 6 (2024).</b>
   
