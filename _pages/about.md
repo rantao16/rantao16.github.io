@@ -22,7 +22,7 @@ Preprints and Publications:
   
   [arixv](https://arxiv.org/pdf/2411.09058.pdf) (submitted)
 
-* Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu) <b>J Functional Analysis 290, 7 (2026).</b>
+* Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu) <b>Journal of Functional Analysis Volume 290, Issue 7 (2026).</b>
   
   [arixv](https://arxiv.org/pdf/2410.01653.pdf), [journal](https://www.sciencedirect.com/science/article/pii/S0022123625004975)
   
