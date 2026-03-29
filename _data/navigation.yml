@@ -8,9 +8,7 @@ main:
   - title: "About"
     url: /about/
 
-
-  - title: "Talks & Travels"
-    url: /talks/    
+  
 
   - title: "Teaching"
     url: /teaching/    
