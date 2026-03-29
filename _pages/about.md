@@ -14,7 +14,7 @@ I got my Ph.D. from the [University of Maryland, College Park](https://www-math.
 
 My research focuses on probability and stochastic analysis, with their applications to statistical physics. I work on topics including stochastic partial differential equations, interacting particle systems, and Malliavin calculus.
 
-Here is a copy of my (out-of-date) [CV](https://drive.google.com/file/d/1QAnjKtOeVYARGnoyFWeTqpMsvxPqjKny/view?usp=sharing).
+Here is a copy of my [CV](https://drive.google.com/file/d/1QAnjKtOeVYARGnoyFWeTqpMsvxPqjKny/view?usp=sharing).
 
 Preprints and Publications:
 ---
