@@ -8,7 +8,7 @@ redirect_from:
 ---
 Email: rantao [at] mis [dot] mpg [dot] de
 
-Hi! My name is Ran Tao (陶然). I am a postdoc at the [Max Planck Institute for Mathematics in the Sciences (MPI MiS)](https://www.mis.mpg.de/) in the group of [Felix Otto](https://www.mis.mpg.de/de/people/felix-otto), in Leipzig, Germany. 
+Hi! My name is Ran Tao (陶然). I am a postdoc at the [Max Planck Institute for Mathematics in the Sciences (MPI MiS)](https://www.mis.mpg.de/) in the group of [Felix Otto]([https://www.mis.mpg.de/de/people/felix-otto](https://www.mis.mpg.de/de/pattern-formation-energy-landscapes-scaling-laws)), in Leipzig, Germany. 
 
 Previously, from Aug 2025 to Dec 2025, I was a postdoc in the program of Recent Trends in Stochastic Partial Differential Equations at [Simons Laufer Mathematical Sciences Institute (SLMath)](https://www.slmath.org/programs/380#). 
 
