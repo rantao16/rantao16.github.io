@@ -10,11 +10,11 @@ Email: rantao [at] mis [dot] mpg [dot] de
 
 Hi! My name is Ran Tao (陶然). I am a postdoc at the [Max Planck Institute for Mathematics in the Sciences (MPI MiS)](https://www.mis.mpg.de/) in the group of [Felix Otto](https://www.mis.mpg.de/de/pattern-formation-energy-landscapes-scaling-laws), in Leipzig, Germany. 
 
+My research focuses on probability and stochastic analysis, with their applications to statistical physics. I work on topics including stochastic partial differential equations, interacting particle systems, and Malliavin calculus.
+
 Previously, from Aug 2025 to Dec 2025, I was a postdoc in the program of Recent Trends in Stochastic Partial Differential Equations at [Simons Laufer Mathematical Sciences Institute (SLMath)](https://www.slmath.org/programs/380#). 
 
 I completed my Ph.D. from the [University of Maryland, College Park](https://www-math.umd.edu/) in May 2025, where I was fortunate to be advised by [Yu Gu](https://www.math.umd.edu/~ygu7/). Before that, I got my B.S. degree from [Fudan University](https://math.fudan.edu.cn/mathen/main.htm) in 2019.
-
-My research focuses on probability and stochastic analysis, with their applications to statistical physics. I work on topics including stochastic partial differential equations, interacting particle systems, and Malliavin calculus.
 
 Here is a copy of my [CV](https://drive.google.com/file/d/1QAnjKtOeVYARGnoyFWeTqpMsvxPqjKny/view?usp=sharing).
 
