@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email: rantao [at] mis [dot] mpg [dot] de
+Email: ran [dot] tao [at] mis [dot] mpg [dot] de
 
 Hi! My name is Ran Tao (陶然). I am a postdoc at the [Max Planck Institute for Mathematics in the Sciences (MPI MiS)](https://www.mis.mpg.de/) in the group of [Felix Otto](https://www.mis.mpg.de/de/pattern-formation-energy-landscapes-scaling-laws), in Leipzig, Germany. 
 
