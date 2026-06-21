@@ -22,7 +22,7 @@ Preprints and Publications:
 ---
 * Time-dependent averages of a critical long-range stochastic heat equation. (with Sefika Kuzgun)
   
-  [arxiv](https://arxiv.org/pdf/2411.09058.pdf) (submitted)
+  [arxiv](https://arxiv.org/pdf/2411.09058.pdf) (To appear in Bernoulli)
 
 * Fluctuation exponents of the half-space KPZ at stationarity. (with Yu Gu) <b>Journal of Functional Analysis, 290, 7 (2026).</b>
   
